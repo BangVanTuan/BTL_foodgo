@@ -1,6 +1,6 @@
 {
-    "name": "foodgo",
-    "short_name": "foodgo",
+    "name": "order_food_app_doanvanthuong",
+    "short_name": "order_food_app_doanvanthuong",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
