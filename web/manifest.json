@@ -1,6 +1,6 @@
 {
-    "name": "order_food_app_doanvanthuong",
-    "short_name": "order_food_app_doanvanthuong",
+    "name": "project_order_food",
+    "short_name": "project_order_food",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
